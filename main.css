@@ -1,16 +1,16 @@
 p {
-    font-size: 500%;
+    font-size: 800%;
     text-align: center;
 }
 
 input{
-    font-size: 300%;
+    font-size: 600%;
 }
 
 #main {
     margin: 0;
     position: absolute;
-    top: 50%;
+    top: 30%;
     left: 50%;
     margin-right: -50%;
     transform: translate(-50%, -50%)
